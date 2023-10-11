@@ -52,6 +52,7 @@
 
                                 <p class="mt-4 text-gray-500 text-sm leading-relaxed">
                                     Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                    Laravel tiene documentacion fantasticas que cubre todos los aspectos del framework.
                                 </p>
                             </div>
 
